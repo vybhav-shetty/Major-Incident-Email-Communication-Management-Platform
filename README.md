@@ -58,5 +58,3 @@ Major Incident Managers were required to manually create, populate, maintain, an
 - Centralised stakeholder communication governance and management.
 - Improved compliance and auditability of communications.
 - Improved stakeholder targeting accuracy through governed distribution management.
-`
-**Outcome:** A centralised, governed, and scalable communication platform that significantly reduced manual effort, improved stakeholder communication quality, strengthened governance, and accelerated communication delivery during major incidents.
