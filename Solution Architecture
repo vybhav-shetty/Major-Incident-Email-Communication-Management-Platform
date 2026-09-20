@@ -1,0 +1,94 @@
+
+┌─────────────────────────────────────────────────────┐
+│         Communication Plan Definition               │
+├─────────────────────────────────────────────────────┤
+│ Major Incident Communication Plan                   │
+│                                                     │
+│ Trigger Conditions                                  │
+│ • P1 Critical or P2 High                            │
+│ • Major Incident Accepted                           │
+└──────────────────────┬──────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────┐
+│          Communication Task Definition              │
+├─────────────────────────────────────────────────────┤
+│ • New Communication                                 │
+│ • Update Communication                              │
+│ • Resolved Communication                            │
+│ • Retrospective Communication                       │
+│ • New + Resolved Communication                      │
+│                                                     │
+│ Frequency & Duration Controls                       │
+│ • One-time                                          │
+│ • Recurring                                         │
+└──────────────────────┬──────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────┐
+│       Communication Content Automation              │
+├─────────────────────────────────────────────────────┤
+│ Automated Population of Sections                    │
+│                                                     │
+│ Data retrieved from Major Incident Record           │
+│ • Incident Number                                   │
+│ • Priority                                          │
+│ • Service                                           │
+│ • Region                                            │
+│ • Impact Start & Incident Reported Time             │
+│ • Description                                       │
+│ • Impact                                            │
+│ • Updates                                           │
+│ • Resolution Details & Preliminary Root Cause       │
+└──────────────────────┬──────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────┐
+│         Stakeholder Distribution Engine             │
+├─────────────────────────────────────────────────────┤
+│ ServiceNow Managed Distribution Lists               │
+│                                                     │
+│ • Executive Stakeholders                            │
+│ • Service Owners                                    │
+│ • Service Managers                                  │
+│ • Application Teams                                 │
+│                                                     │
+│ Self-Service Onboarding & Offboarding               │
+└──────────────────────┬──────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────┐
+│            Email Template Framework                 │
+├─────────────────────────────────────────────────────┤
+│ Template Types                                      │
+│ • New                                               │
+│ • Update                                            │
+│ • Resolved                                          │
+│ • Retrospective                                     │
+│ • New/Resolved                                      │
+│                                                     │
+│ Dynamic Subject Generation                          │
+│ Dynamic HTML Content Population                     │
+│ Standardised Formatting                             │
+└──────────────────────┬──────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────┐
+│          Communication Delivery Layer               │
+├─────────────────────────────────────────────────────┤
+│ ServiceNow → Outlook Integration                    │
+│                                                     │
+│ • Recipient Resolution                              │
+│ • Email Generation                                  │
+│ • Distribution                                      │
+│ • Delivery Tracking                                 │
+└──────────────────────┬──────────────────────────────┘
+                       │
+                       ▼
+┌─────────────────────────────────────────────────────┐
+│              Communication Audit                    │
+├─────────────────────────────────────────────────────┤
+│ Communication History                               │
+│ Compliance Records                                  │
+│ Post-Incident Review                                │
+└─────────────────────────────────────────────────────┘
