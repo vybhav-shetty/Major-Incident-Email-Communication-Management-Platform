@@ -2,6 +2,8 @@
 
 A centralised ServiceNow platform for automating, governing, and streamlining Major Incident email communications. The solution standardises stakeholder communications, reduces manual effort, improves communication accuracy, and provides end-to-end governance, auditability, and distribution management.
 
+[Solution Architecture](https://github.com/vybhav-shetty/Major-Incident-Email-Communication-Management-Platform/blob/main/Solution%20Architecture)
+
 ## Project Highlights
 
 - Automated population of 12 out of 14 sections (86%) within Major Incident stakeholder communications by retrieving incident data directly from ServiceNow records, significantly reducing manual effort.
